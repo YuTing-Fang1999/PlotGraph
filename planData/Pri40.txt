@@ -1,0 +1,1 @@
+{"dataArray":[{"draggable":true,"symbolSize":35,"name":" 薛文魁 ","category":"大漢技術學院","plan":"大漢技術學院: 薛文魁 <br/>斜導算與斜多項式環之研究<br/>"}],"Department":"大漢技術學院資訊工程系","SchoolNum":"40","linkArray":[],"SchoolName":"大漢技術學院","categories":[{"name":"大漢技術學院"}]}

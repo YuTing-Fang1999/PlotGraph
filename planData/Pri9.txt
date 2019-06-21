@@ -1,0 +1,1 @@
+{"dataArray":[{"draggable":true,"symbolSize":35,"name":" 劉東平 ","category":"中信學校財團法人中信金融管理學院","plan":"中信學校財團法人中信金融管理學院: 劉東平 <br/>具肋條紊流器渦輪盤冷卻之局部熱傳量測<br/>"}],"Department":"中信學校財團法人中信金融管理學院資訊科學學系","SchoolNum":"9","linkArray":[],"SchoolName":"中信學校財團法人中信金融管理學院","categories":[{"name":"中信學校財團法人中信金融管理學院"}]}
