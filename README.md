@@ -6,4 +6,4 @@ ParseFile 和 PaeseAllFile 是舊版的class 基本上可以刪掉。
 有空再增加進度條功能吧!
 png是為了引入到readme說明的，下載後要刪掉
 
-![image](https://github.com/pupumeme/PlotGraph/edit/master/1.png)
+![image](https://github.com/pupumeme/PlotGraph/blob/master/1.png)
