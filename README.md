@@ -26,5 +26,5 @@ png是為了引入到readme說明的，下載後要刪掉
 可即時更新所有大學的計畫  
 ![image](https://github.com/pupumeme/PlotGraph/blob/master/7.png)
 
-因為更新全部大學要話的時間較久，所以我又新增的一個只更新一個大學的功能  
+因為更新全部大學要話的時間較久，所以我又新增一個只更新一個大學的功能  
 ![image](https://github.com/pupumeme/PlotGraph/blob/master/8.png)
